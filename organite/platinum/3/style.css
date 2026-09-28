@@ -125,17 +125,17 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
 }
 
  .name1  {
-  color: rgb(176, 196, 222);
-}
-
- .name2  {
-  color: rgb(224, 224, 224);
-}
-
- .name3  {
   color: rgb(136, 136, 136);
 }
 
- .name4  {
+ .name2  {
+  color: rgb(176, 196, 222);
+}
+
+ .name3  {
   color: rgb(170, 238, 221);
+}
+
+ .name4  {
+  color: rgb(224, 224, 224);
 }
